@@ -5,13 +5,14 @@ body {
 }
 
 header {
-    background-color: #00aaff;
-    color: #00aaff;
+    background-color: #00344d;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
 
 section {
+    background-color: #e6f2ff;
     margin: 20px;
     padding: 20px;
 }
@@ -19,5 +20,5 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #00aaff;
+    background-color: #00344d;
 }
